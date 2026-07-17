@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Remix: Friendly- AI Vision Assistant",
+  "description": "Elite AI Prompt Engineer \u0026 Execution Architect. A sophisticated, bubbly, and sassy high-performance assistant specialized in systems thinking, master prompting, and autonomous architectural builds.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "display-capture"
+  ]
+}
